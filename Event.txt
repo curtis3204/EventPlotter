@@ -1,0 +1,746 @@
+01/09 21:39:55.982 [80]
+01/09 21:39:55.994 [81]
+01/09 21:39:56.006 [0]
+01/09 21:39:56.018 [1]
+01/09 21:39:56.030 [2]
+01/09 21:39:56.043 [3]
+01/09 21:39:56.055 [4]
+01/09 21:39:56.066 [5]
+01/09 21:39:56.079 [6]
+01/09 21:39:56.091 [7]
+01/09 21:39:56.102 [8]
+01/09 21:39:56.115 [9]
+01/09 21:39:56.127 [10]
+01/09 21:39:56.139 [11]
+01/09 21:39:56.151 [12]
+01/09 21:39:56.163 [13]
+01/09 21:39:56.175 [14]
+01/09 21:39:56.187 [15]
+01/09 21:39:56.199 [16]
+01/09 21:39:56.211 [17]
+01/09 21:39:56.223 [18]
+01/09 21:39:56.235 [19]
+01/09 21:39:56.248 [20]
+01/09 21:39:56.259 [21]
+01/09 21:39:56.271 [22]
+01/09 21:39:56.283 [23]
+01/09 21:39:56.296 [24]
+01/09 21:39:56.307 [25]
+01/09 21:39:56.320 [26]
+01/09 21:39:56.332 [27]
+01/09 21:39:56.343 [28]
+01/09 21:39:56.356 [29]
+01/09 21:39:56.367 [30]
+01/09 21:39:56.379 [31]
+01/09 21:39:56.392 [32]
+01/09 21:39:56.403 [33]
+01/09 21:39:56.416 [34]
+01/09 21:39:56.428 [35]
+01/09 21:39:56.440 [36]
+01/09 21:39:56.452 [37]
+01/09 21:39:56.463 [38]
+01/09 21:39:56.476 [39]
+01/09 21:39:56.487 [40]
+01/09 21:39:56.499 [41]
+01/09 21:39:56.511 [42]
+01/09 21:39:56.524 [43]
+01/09 21:39:56.535 [44]
+01/09 21:39:56.548 [45]
+01/09 21:39:56.560 [46]
+01/09 21:39:56.572 [47]
+01/09 21:39:56.584 [48]
+01/09 21:39:56.596 [49]
+01/09 21:39:56.609 [50]
+01/09 21:39:56.621 [51]
+01/09 21:39:56.632 [52]
+01/09 21:39:56.644 [53]
+01/09 21:39:56.656 [54]
+01/09 21:39:56.669 [55]
+01/09 21:39:56.681 [56]
+01/09 21:39:56.692 [57]
+01/09 21:39:56.705 [58]
+01/09 21:39:56.716 [59]
+01/09 21:39:56.729 [60]
+01/09 21:39:56.741 [61]
+01/09 21:39:56.753 [62]
+01/09 21:39:56.764 [63]
+01/09 21:39:56.777 [64]
+01/09 21:39:56.788 [65]
+01/09 21:39:56.801 [66]
+01/09 21:39:56.813 [67]
+01/09 21:39:56.825 [68]
+01/09 21:39:56.837 [69]
+01/09 21:39:56.849 [70]
+01/09 21:39:56.862 [71]
+01/09 21:39:56.873 [72]
+01/09 21:39:56.886 [73]
+01/09 21:39:56.897 [74]
+01/09 21:39:56.909 [75]
+01/09 21:39:56.921 [76]
+01/09 21:39:56.933 [77]
+01/09 21:39:56.945 [78]
+01/09 21:39:56.958 [79]
+01/09 21:39:56.969 [80]
+01/09 21:39:56.981 [81]
+01/09 21:39:56.993 [82]
+01/09 21:39:57.005 [0]
+01/09 21:39:57.017 [1]
+01/09 21:39:57.029 [2]
+01/09 21:39:57.042 [3]
+01/09 21:39:57.053 [4]
+01/09 21:39:57.066 [5]
+01/09 21:39:57.078 [6]
+01/09 21:39:57.092 [7]
+01/09 21:39:57.102 [8]
+01/09 21:39:57.114 [9]
+01/09 21:39:57.126 [10]
+01/09 21:39:57.138 [11]
+01/09 21:39:57.150 [12]
+01/09 21:39:57.161 [13]
+01/09 21:39:57.174 [14]
+01/09 21:39:57.185 [15]
+01/09 21:39:57.193 [15] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:39:57.193 [15] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:39:57.198 [16]
+01/09 21:39:57.200 [16] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:57.201 [16] :RightController|Output|Vibration|Amp 100.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:57.203 [16] :RightController|Output|Vibration|Amp 0.7200 Freq 1.0000 Duration 0.0110
+01/09 21:39:57.204 [16] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:57.210 [17]
+01/09 21:39:57.222 [18]
+01/09 21:39:57.234 [19]
+01/09 21:39:57.241 [19] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:57.246 [20]
+01/09 21:39:57.247 [20] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:57.253 [20] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:57.259 [21]
+01/09 21:39:57.271 [22]
+01/09 21:39:57.282 [23]
+01/09 21:39:57.295 [24]
+01/09 21:39:57.300 [24] :RightController|Output|Vibration|Amp 0.9300 Freq 1.0000 Duration 0.0110
+01/09 21:39:57.303 [24] :RightController|Output|Vibration|Amp 0.9300 Freq 1.0000 Duration 0.0110
+01/09 21:39:57.308 [25]
+01/09 21:39:57.309 [25] :RightController|Output|Vibration|Amp 0.5200 Freq 1.0000 Duration 0.0110
+01/09 21:39:57.319 [26]
+01/09 21:39:57.332 [27]
+01/09 21:39:57.343 [28]
+01/09 21:39:57.355 [28] :RightController|Output|Vibration|Amp 0.4900 Freq 1.0000 Duration 0.0110
+01/09 21:39:57.355 [29]
+01/09 21:39:57.356 [29] :RightController|Output|Vibration|Amp 0.4900 Freq 1.0000 Duration 0.0110
+01/09 21:39:57.358 [29] :RightController|Output|Vibration|Amp 0.0000 Freq 1.0000 Duration 0.0000
+01/09 21:39:57.371 [30]
+01/09 21:39:57.381 [31]
+01/09 21:39:57.393 [32]
+01/09 21:39:57.405 [33]
+01/09 21:39:57.417 [34]
+01/09 21:39:57.429 [35]
+01/09 21:39:57.439 [35] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:39:57.439 [35] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:39:57.441 [36]
+01/09 21:39:57.453 [37]
+01/09 21:39:57.465 [38]
+01/09 21:39:57.477 [39]
+01/09 21:39:57.489 [40]
+01/09 21:39:57.501 [41]
+01/09 21:39:57.514 [42]
+01/09 21:39:57.526 [43]
+01/09 21:39:57.538 [44]
+01/09 21:39:57.544 [44] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:39:57.544 [44] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:39:57.549 [45]
+01/09 21:39:57.562 [46]
+01/09 21:39:57.573 [47]
+01/09 21:39:57.576 [47] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:57.577 [47] :RightController|Output|Vibration|Amp 100.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:57.579 [47] :RightController|Output|Vibration|Amp 0.7200 Freq 1.0000 Duration 0.0110
+01/09 21:39:57.582 [47] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:57.584 [47] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:57.587 [48]
+01/09 21:39:57.598 [49]
+01/09 21:39:57.610 [50]
+01/09 21:39:57.624 [51]
+01/09 21:39:57.635 [51] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:57.637 [52]
+01/09 21:39:57.638 [52] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:57.640 [52] :RightController|Output|Vibration|Amp 0.9300 Freq 1.0000 Duration 0.0110
+01/09 21:39:57.648 [53]
+01/09 21:39:57.661 [54]
+01/09 21:39:57.672 [55]
+01/09 21:39:57.685 [56]
+01/09 21:39:57.696 [57]
+01/09 21:39:57.699 [57] :RightController|Output|Vibration|Amp 0.9300 Freq 1.0000 Duration 0.0110
+01/09 21:39:57.703 [57] :RightController|Output|Vibration|Amp 0.5200 Freq 1.0000 Duration 0.0110
+01/09 21:39:57.704 [57] :RightController|Output|Vibration|Amp 0.4900 Freq 1.0000 Duration 0.0110
+01/09 21:39:57.709 [58]
+01/09 21:39:57.721 [59]
+01/09 21:39:57.725 [59] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:39:57.725 [59] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:39:57.732 [60]
+01/09 21:39:57.745 [61]
+01/09 21:39:57.757 [61] :RightController|Output|Vibration|Amp 0.0000 Freq 1.0000 Duration 0.0000
+01/09 21:39:57.759 [62]
+01/09 21:39:57.770 [63]
+01/09 21:39:57.785 [64]
+01/09 21:39:57.796 [65]
+01/09 21:39:57.809 [66]
+01/09 21:39:57.820 [67]
+01/09 21:39:57.832 [68]
+01/09 21:39:57.845 [69]
+01/09 21:39:57.856 [70]
+01/09 21:39:57.869 [71]
+01/09 21:39:57.881 [72]
+01/09 21:39:57.893 [73]
+01/09 21:39:57.905 [74]
+01/09 21:39:57.917 [75]
+01/09 21:39:57.929 [76]
+01/09 21:39:57.941 [77]
+01/09 21:39:57.953 [78]
+01/09 21:39:57.965 [79]
+01/09 21:39:57.977 [80]
+01/09 21:39:57.989 [81]
+01/09 21:39:58.001 [0]
+01/09 21:39:58.013 [1]
+01/09 21:39:58.025 [2]
+01/09 21:39:58.030 [2] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:39:58.030 [2] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:39:58.038 [3]
+01/09 21:39:58.040 [3] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.040 [3] :RightController|Output|Vibration|Amp 100.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.041 [3] :RightController|Output|Vibration|Amp 0.7200 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.042 [3] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.049 [4]
+01/09 21:39:58.061 [5]
+01/09 21:39:58.070 [5] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.071 [5] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.073 [6]
+01/09 21:39:58.087 [7]
+01/09 21:39:58.098 [8]
+01/09 21:39:58.101 [8] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.102 [8] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.103 [8] :RightController|Output|Vibration|Amp 0.9300 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.110 [9]
+01/09 21:39:58.122 [10]
+01/09 21:39:58.129 [10] :RightController|Output|Vibration|Amp 0.5200 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.129 [10] :RightController|Output|Vibration|Amp 0.4900 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.134 [11]
+01/09 21:39:58.146 [12]
+01/09 21:39:58.158 [13]
+01/09 21:39:58.162 [13] :RightController|Output|Vibration|Amp 0.4900 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.163 [13] :RightController|Output|Vibration|Amp 0.0000 Freq 1.0000 Duration 0.0000
+01/09 21:39:58.171 [14]
+01/09 21:39:58.183 [15]
+01/09 21:39:58.195 [16]
+01/09 21:39:58.207 [17]
+01/09 21:39:58.219 [18]
+01/09 21:39:58.231 [19]
+01/09 21:39:58.242 [20]
+01/09 21:39:58.255 [21]
+01/09 21:39:58.267 [22]
+01/09 21:39:58.273 [22] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:39:58.273 [22] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:39:58.279 [23]
+01/09 21:39:58.291 [24]
+01/09 21:39:58.303 [25]
+01/09 21:39:58.315 [26]
+01/09 21:39:58.327 [27]
+01/09 21:39:58.339 [28]
+01/09 21:39:58.348 [28] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:39:58.348 [28] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:39:58.350 [29]
+01/09 21:39:58.363 [30]
+01/09 21:39:58.368 [30] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.368 [30] :RightController|Output|Vibration|Amp 100.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.373 [30] :RightController|Output|Vibration|Amp 0.7200 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.374 [30] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.375 [30] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.376 [31]
+01/09 21:39:58.387 [32]
+01/09 21:39:58.399 [33]
+01/09 21:39:58.405 [33] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.407 [33] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.412 [34]
+01/09 21:39:58.423 [35]
+01/09 21:39:58.436 [36]
+01/09 21:39:58.446 [36] :RightController|Output|Vibration|Amp 0.9300 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.447 [36] :RightController|Output|Vibration|Amp 0.9300 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.448 [37]
+01/09 21:39:58.449 [37] :RightController|Output|Vibration|Amp 0.5200 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.460 [38]
+01/09 21:39:58.472 [39]
+01/09 21:39:58.480 [39] :RightController|Output|Vibration|Amp 0.4900 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.480 [39] :RightController|Output|Vibration|Amp 0.0000 Freq 1.0000 Duration 0.0000
+01/09 21:39:58.484 [40]
+01/09 21:39:58.497 [41]
+01/09 21:39:58.508 [42]
+01/09 21:39:58.520 [43]
+01/09 21:39:58.532 [44]
+01/09 21:39:58.545 [45]
+01/09 21:39:58.556 [46]
+01/09 21:39:58.568 [47]
+01/09 21:39:58.580 [48]
+01/09 21:39:58.593 [49]
+01/09 21:39:58.605 [50]
+01/09 21:39:58.616 [51]
+01/09 21:39:58.629 [52]
+01/09 21:39:58.640 [53]
+01/09 21:39:58.653 [54]
+01/09 21:39:58.664 [55]
+01/09 21:39:58.676 [56]
+01/09 21:39:58.689 [57]
+01/09 21:39:58.701 [58]
+01/09 21:39:58.713 [59]
+01/09 21:39:58.725 [60]
+01/09 21:39:58.737 [61]
+01/09 21:39:58.749 [62]
+01/09 21:39:58.761 [63]
+01/09 21:39:58.766 [63] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:39:58.767 [63] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:39:58.773 [64]
+01/09 21:39:58.786 [65]
+01/09 21:39:58.797 [66]
+01/09 21:39:58.809 [67]
+01/09 21:39:58.813 [67] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:39:58.813 [67] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:39:58.821 [68]
+01/09 21:39:58.829 [68] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.830 [68] :RightController|Output|Vibration|Amp 100.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.831 [68] :RightController|Output|Vibration|Amp 0.7200 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.832 [68] :RightController|Output|Vibration|Amp 0.7200 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.833 [69]
+01/09 21:39:58.846 [70]
+01/09 21:39:58.858 [71]
+01/09 21:39:58.868 [71] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.869 [71] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.869 [72]
+01/09 21:39:58.871 [72] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.881 [73]
+01/09 21:39:58.894 [74]
+01/09 21:39:58.901 [74] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.901 [74] :RightController|Output|Vibration|Amp 0.9300 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.902 [74] :RightController|Output|Vibration|Amp 0.7600 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.906 [75]
+01/09 21:39:58.918 [76]
+01/09 21:39:58.930 [77]
+01/09 21:39:58.937 [77] :RightController|Output|Vibration|Amp 0.5200 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.938 [77] :RightController|Output|Vibration|Amp 0.4900 Freq 1.0000 Duration 0.0110
+01/09 21:39:58.941 [78]
+01/09 21:39:58.954 [79]
+01/09 21:39:58.966 [80]
+01/09 21:39:58.967 [80] :RightController|Output|Vibration|Amp 0.0000 Freq 1.0000 Duration 0.0000
+01/09 21:39:58.978 [81]
+01/09 21:39:58.989 [82]
+01/09 21:39:59.002 [0]
+01/09 21:39:59.014 [1]
+01/09 21:39:59.026 [2]
+01/09 21:39:59.038 [3]
+01/09 21:39:59.050 [4]
+01/09 21:39:59.062 [5]
+01/09 21:39:59.074 [6]
+01/09 21:39:59.086 [7]
+01/09 21:39:59.098 [8]
+01/09 21:39:59.110 [9]
+01/09 21:39:59.122 [10]
+01/09 21:39:59.135 [11]
+01/09 21:39:59.146 [12]
+01/09 21:39:59.159 [13]
+01/09 21:39:59.171 [14]
+01/09 21:39:59.183 [15]
+01/09 21:39:59.194 [16]
+01/09 21:39:59.207 [17]
+01/09 21:39:59.219 [18]
+01/09 21:39:59.231 [19]
+01/09 21:39:59.243 [19] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:39:59.244 [20]
+01/09 21:39:59.244 [20] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:39:59.256 [21]
+01/09 21:39:59.267 [22]
+01/09 21:39:59.279 [23]
+01/09 21:39:59.292 [24]
+01/09 21:39:59.292 [24] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:39:59.293 [24] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:39:59.303 [25]
+01/09 21:39:59.308 [25] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.309 [25] :RightController|Output|Vibration|Amp 100.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.311 [25] :RightController|Output|Vibration|Amp 0.7200 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.313 [25] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.315 [25] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.315 [26]
+01/09 21:39:59.328 [27]
+01/09 21:39:59.339 [28]
+01/09 21:39:59.352 [29]
+01/09 21:39:59.364 [30]
+01/09 21:39:59.365 [30] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.365 [30] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.366 [30] :RightController|Output|Vibration|Amp 0.9300 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.376 [31]
+01/09 21:39:59.388 [32]
+01/09 21:39:59.399 [32] :RightController|Output|Vibration|Amp 0.9300 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.400 [33]
+01/09 21:39:59.401 [33] :RightController|Output|Vibration|Amp 0.5200 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.401 [33] :RightController|Output|Vibration|Amp 0.4900 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.412 [34]
+01/09 21:39:59.424 [35]
+01/09 21:39:59.431 [35] :RightController|Output|Vibration|Amp 0.0000 Freq 1.0000 Duration 0.0000
+01/09 21:39:59.436 [36]
+01/09 21:39:59.449 [37]
+01/09 21:39:59.460 [38]
+01/09 21:39:59.472 [38] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:39:59.473 [38] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:39:59.473 [39]
+01/09 21:39:59.484 [40]
+01/09 21:39:59.497 [41]
+01/09 21:39:59.508 [42]
+01/09 21:39:59.521 [43]
+01/09 21:39:59.522 [43] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:39:59.522 [43] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:39:59.532 [44]
+01/09 21:39:59.537 [44] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.539 [44] :RightController|Output|Vibration|Amp 0.7200 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.541 [44] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.545 [45]
+01/09 21:39:59.557 [46]
+01/09 21:39:59.569 [47]
+01/09 21:39:59.578 [47] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.578 [47] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.579 [47] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.581 [48]
+01/09 21:39:59.593 [49]
+01/09 21:39:59.606 [50]
+01/09 21:39:59.617 [51]
+01/09 21:39:59.619 [51] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.620 [51] :RightController|Output|Vibration|Amp 0.9300 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.622 [51] :RightController|Output|Vibration|Amp 0.5200 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.629 [52]
+01/09 21:39:59.641 [53]
+01/09 21:39:59.651 [53] :RightController|Output|Vibration|Amp 0.4900 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.653 [53] :RightController|Output|Vibration|Amp 0.4900 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.653 [54]
+01/09 21:39:59.666 [55]
+01/09 21:39:59.678 [56]
+01/09 21:39:59.685 [56] :RightController|Output|Vibration|Amp 0.0000 Freq 1.0000 Duration 0.0000
+01/09 21:39:59.690 [57]
+01/09 21:39:59.702 [58]
+01/09 21:39:59.707 [58] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:39:59.708 [58] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:39:59.714 [59]
+01/09 21:39:59.726 [60]
+01/09 21:39:59.738 [61]
+01/09 21:39:59.751 [62]
+01/09 21:39:59.763 [63]
+01/09 21:39:59.774 [64]
+01/09 21:39:59.778 [64] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:39:59.779 [64] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:39:59.787 [65]
+01/09 21:39:59.797 [65] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.797 [65] :RightController|Output|Vibration|Amp 100.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.798 [66]
+01/09 21:39:59.799 [66] :RightController|Output|Vibration|Amp 0.7200 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.801 [66] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.811 [67]
+01/09 21:39:59.823 [68]
+01/09 21:39:59.833 [68] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.834 [68] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.834 [69]
+01/09 21:39:59.836 [69] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.847 [70]
+01/09 21:39:59.859 [71]
+01/09 21:39:59.863 [71] :RightController|Output|Vibration|Amp 0.9300 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.866 [71] :RightController|Output|Vibration|Amp 0.7600 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.871 [72]
+01/09 21:39:59.883 [73]
+01/09 21:39:59.895 [74]
+01/09 21:39:59.895 [74] :RightController|Output|Vibration|Amp 0.5200 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.897 [74] :RightController|Output|Vibration|Amp 0.4900 Freq 1.0000 Duration 0.0110
+01/09 21:39:59.907 [75]
+01/09 21:39:59.919 [76]
+01/09 21:39:59.931 [77]
+01/09 21:39:59.944 [78]
+01/09 21:39:59.945 [78] :RightController|Output|Vibration|Amp 0.0000 Freq 1.0000 Duration 0.0000
+01/09 21:39:59.956 [79]
+01/09 21:39:59.962 [79] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:39:59.962 [79] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:39:59.968 [80]
+01/09 21:39:59.979 [81]
+01/09 21:39:59.991 [82]
+01/09 21:39:59.993 [82] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:39:59.993 [82] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:40:00.003 [0]
+01/09 21:40:00.016 [1]
+01/09 21:40:00.027 [2]
+01/09 21:40:00.039 [3]
+01/09 21:40:00.052 [4]
+01/09 21:40:00.063 [5]
+01/09 21:40:00.076 [6]
+01/09 21:40:00.088 [7]
+01/09 21:40:00.100 [8]
+01/09 21:40:00.111 [9]
+01/09 21:40:00.124 [10]
+01/09 21:40:00.136 [10] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:40:00.136 [10] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:40:00.136 [11]
+01/09 21:40:00.149 [12]
+01/09 21:40:00.161 [13]
+01/09 21:40:00.172 [14]
+01/09 21:40:00.185 [15]
+01/09 21:40:00.196 [16]
+01/09 21:40:00.197 [16] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:40:00.197 [16] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:40:00.209 [17]
+01/09 21:40:00.212 [17] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.213 [17] :RightController|Output|Vibration|Amp 100.0000 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.216 [17] :RightController|Output|Vibration|Amp 0.7200 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.221 [18]
+01/09 21:40:00.222 [18] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.224 [18] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.232 [19]
+01/09 21:40:00.245 [20]
+01/09 21:40:00.257 [21]
+01/09 21:40:00.268 [21] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.269 [22]
+01/09 21:40:00.269 [22] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.270 [22] :RightController|Output|Vibration|Amp 0.9300 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.281 [23]
+01/09 21:40:00.293 [24]
+01/09 21:40:00.305 [25]
+01/09 21:40:00.317 [26]
+01/09 21:40:00.322 [26] :RightController|Output|Vibration|Amp 0.7600 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.323 [26] :RightController|Output|Vibration|Amp 0.5200 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.325 [26] :RightController|Output|Vibration|Amp 0.4900 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.329 [27]
+01/09 21:40:00.342 [28]
+01/09 21:40:00.344 [28] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:40:00.344 [28] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:40:00.353 [29]
+01/09 21:40:00.364 [29] :RightController|Output|Vibration|Amp 0.0000 Freq 1.0000 Duration 0.0000
+01/09 21:40:00.365 [30]
+01/09 21:40:00.378 [31]
+01/09 21:40:00.389 [31] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:40:00.389 [31] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:40:00.390 [32]
+01/09 21:40:00.402 [33]
+01/09 21:40:00.414 [34]
+01/09 21:40:00.427 [35]
+01/09 21:40:00.438 [36]
+01/09 21:40:00.450 [37]
+01/09 21:40:00.463 [38]
+01/09 21:40:00.475 [39]
+01/09 21:40:00.487 [40]
+01/09 21:40:00.499 [41]
+01/09 21:40:00.510 [42]
+01/09 21:40:00.522 [43]
+01/09 21:40:00.534 [44]
+01/09 21:40:00.547 [45]
+01/09 21:40:00.555 [45] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:40:00.555 [45] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:40:00.559 [46]
+01/09 21:40:00.571 [47]
+01/09 21:40:00.582 [48]
+01/09 21:40:00.595 [49]
+01/09 21:40:00.606 [50]
+01/09 21:40:00.619 [51]
+01/09 21:40:00.631 [52]
+01/09 21:40:00.638 [52] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:40:00.639 [52] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:40:00.642 [53]
+01/09 21:40:00.652 [53] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.652 [53] :RightController|Output|Vibration|Amp 100.0000 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.654 [53] :RightController|Output|Vibration|Amp 0.7200 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.654 [54]
+01/09 21:40:00.656 [54] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.657 [54] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.667 [55]
+01/09 21:40:00.679 [55] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.679 [56]
+01/09 21:40:00.680 [56] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.692 [57]
+01/09 21:40:00.703 [58]
+01/09 21:40:00.713 [58] :RightController|Output|Vibration|Amp 0.9300 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.715 [58] :RightController|Output|Vibration|Amp 0.9300 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.716 [59]
+01/09 21:40:00.727 [60]
+01/09 21:40:00.739 [61]
+01/09 21:40:00.742 [61] :RightController|Output|Vibration|Amp 0.5200 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.743 [61] :RightController|Output|Vibration|Amp 0.4900 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.745 [61] :RightController|Output|Vibration|Amp 0.4900 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.752 [62]
+01/09 21:40:00.764 [63]
+01/09 21:40:00.770 [63] :RightController|Output|Vibration|Amp 0.0000 Freq 1.0000 Duration 0.0000
+01/09 21:40:00.776 [64]
+01/09 21:40:00.787 [64] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:40:00.787 [64] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:40:00.788 [65]
+01/09 21:40:00.799 [66]
+01/09 21:40:00.812 [67]
+01/09 21:40:00.824 [68]
+01/09 21:40:00.836 [69]
+01/09 21:40:00.837 [69] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:40:00.837 [69] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:40:00.848 [70]
+01/09 21:40:00.853 [70] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.854 [70] :RightController|Output|Vibration|Amp 0.7200 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.855 [70] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.856 [70] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.860 [71]
+01/09 21:40:00.872 [72]
+01/09 21:40:00.883 [72] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.884 [73]
+01/09 21:40:00.884 [73] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.897 [74]
+01/09 21:40:00.908 [75]
+01/09 21:40:00.918 [75] :RightController|Output|Vibration|Amp 0.9300 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.919 [75] :RightController|Output|Vibration|Amp 0.7600 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.921 [76]
+01/09 21:40:00.933 [77]
+01/09 21:40:00.945 [78]
+01/09 21:40:00.954 [78] :RightController|Output|Vibration|Amp 0.5200 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.956 [78] :RightController|Output|Vibration|Amp 0.4900 Freq 1.0000 Duration 0.0110
+01/09 21:40:00.957 [79]
+01/09 21:40:00.958 [79] :RightController|Output|Vibration|Amp 0.0000 Freq 1.0000 Duration 0.0000
+01/09 21:40:00.968 [80]
+01/09 21:40:00.981 [81]
+01/09 21:40:00.993 [82]
+01/09 21:40:01.004 [0]
+01/09 21:40:01.008 [0] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:40:01.009 [0] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:40:01.018 [1]
+01/09 21:40:01.028 [2]
+01/09 21:40:01.040 [3]
+01/09 21:40:01.053 [4]
+01/09 21:40:01.065 [5]
+01/09 21:40:01.077 [6]
+01/09 21:40:01.089 [7]
+01/09 21:40:01.101 [8]
+01/09 21:40:01.113 [9]
+01/09 21:40:01.124 [9] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:40:01.125 [9] :RightController|Output|Vibration|Amp 0.2000 Freq 20.0000 Duration 0.0000
+01/09 21:40:01.125 [10]
+01/09 21:40:01.135 [10] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:40:01.136 [10] :RightController|Output|Vibration|Amp 100.0000 Freq 1.0000 Duration 0.0110
+01/09 21:40:01.137 [11]
+01/09 21:40:01.138 [11] :RightController|Output|Vibration|Amp 0.7200 Freq 1.0000 Duration 0.0110
+01/09 21:40:01.140 [11] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:40:01.149 [12]
+01/09 21:40:01.162 [13]
+01/09 21:40:01.168 [13] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:40:01.169 [13] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:40:01.170 [13] :RightController|Output|Vibration|Amp 1.0000 Freq 1.0000 Duration 0.0110
+01/09 21:40:01.174 [14]
+01/09 21:40:01.186 [15]
+01/09 21:40:01.197 [16]
+01/09 21:40:01.205 [16] :RightController|Output|Vibration|Amp 0.9300 Freq 1.0000 Duration 0.0110
+01/09 21:40:01.206 [16] :RightController|Output|Vibration|Amp 0.9300 Freq 1.0000 Duration 0.0110
+01/09 21:40:01.210 [17]
+01/09 21:40:01.222 [18]
+01/09 21:40:01.234 [19]
+01/09 21:40:01.246 [20]
+01/09 21:40:01.253 [20] :RightController|Output|Vibration|Amp 0.5200 Freq 1.0000 Duration 0.0110
+01/09 21:40:01.254 [20] :RightController|Output|Vibration|Amp 0.4900 Freq 1.0000 Duration 0.0110
+01/09 21:40:01.257 [20] :RightController|Output|Vibration|Amp 0.4900 Freq 1.0000 Duration 0.0110
+01/09 21:40:01.258 [21]
+01/09 21:40:01.270 [22]
+01/09 21:40:01.283 [23]
+01/09 21:40:01.294 [24]
+01/09 21:40:01.307 [25]
+01/09 21:40:01.314 [25] :RightController|Output|Vibration|Amp 0.0000 Freq 1.0000 Duration 0.0000
+01/09 21:40:01.318 [26]
+01/09 21:40:01.331 [27]
+01/09 21:40:01.336 [27] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:40:01.337 [27] :RightController|Output|Vibration|Amp 0.1000 Freq 20.0000 Duration 0.0000
+01/09 21:40:01.343 [28]
+01/09 21:40:01.356 [29]
+01/09 21:40:01.367 [30]
+01/09 21:40:01.380 [31]
+01/09 21:40:01.392 [32]
+01/09 21:40:01.404 [33]
+01/09 21:40:01.415 [34]
+01/09 21:40:01.428 [35]
+01/09 21:40:01.440 [36]
+01/09 21:40:01.452 [37]
+01/09 21:40:01.465 [38]
+01/09 21:40:01.478 [39]
+01/09 21:40:01.488 [40]
+01/09 21:40:01.501 [41]
+01/09 21:40:01.512 [42]
+01/09 21:40:01.525 [43]
+01/09 21:40:01.536 [44]
+01/09 21:40:01.548 [45]
+01/09 21:40:01.561 [46]
+01/09 21:40:01.572 [47]
+01/09 21:40:01.584 [48]
+01/09 21:40:01.597 [49]
+01/09 21:40:01.608 [50]
+01/09 21:40:01.620 [51]
+01/09 21:40:01.633 [52]
+01/09 21:40:01.645 [53]
+01/09 21:40:01.657 [54]
+01/09 21:40:01.668 [55]
+01/09 21:40:01.681 [56]
+01/09 21:40:01.694 [57]
+01/09 21:40:01.705 [58]
+01/09 21:40:01.718 [59]
+01/09 21:40:01.729 [60]
+01/09 21:40:01.741 [61]
+01/09 21:40:01.753 [62]
+01/09 21:40:01.765 [63]
+01/09 21:40:01.777 [64]
+01/09 21:40:01.789 [65]
+01/09 21:40:01.801 [66]
+01/09 21:40:01.814 [67]
+01/09 21:40:01.825 [68]
+01/09 21:40:01.838 [69]
+01/09 21:40:01.849 [70]
+01/09 21:40:01.862 [71]
+01/09 21:40:01.873 [72]
+01/09 21:40:01.886 [73]
+01/09 21:40:01.898 [74]
+01/09 21:40:01.910 [75]
+01/09 21:40:01.923 [76]
+01/09 21:40:01.935 [77]
+01/09 21:40:01.947 [78]
+01/09 21:40:01.959 [79]
+01/09 21:40:01.971 [80]
+01/09 21:40:01.984 [81]
+01/09 21:40:01.995 [82]
+01/09 21:40:02.008 [0]
+01/09 21:40:02.019 [1]
+01/09 21:40:02.031 [2]
+01/09 21:40:02.043 [3]
+01/09 21:40:02.055 [4]
+01/09 21:40:02.067 [5]
+01/09 21:40:02.079 [6]
+01/09 21:40:02.091 [7]
+01/09 21:40:02.104 [8]
+01/09 21:40:02.115 [9]
+01/09 21:40:02.128 [10]
+01/09 21:40:02.140 [11]
+01/09 21:40:02.152 [12]
+01/09 21:40:02.164 [13]
+01/09 21:40:02.176 [14]
+01/09 21:40:02.188 [15]
+01/09 21:40:02.200 [16]
+01/09 21:40:02.212 [17]
+01/09 21:40:02.225 [18]
+01/09 21:40:02.236 [19]
+01/09 21:40:02.248 [20]
+01/09 21:40:02.260 [21]
+01/09 21:40:02.272 [22]
+01/09 21:40:02.284 [23]
+01/09 21:40:02.296 [24]
+01/09 21:40:02.308 [25]
+01/09 21:40:02.320 [26]
+01/09 21:40:02.332 [27]
+01/09 21:40:02.345 [28]
+01/09 21:40:02.357 [29]
+01/09 21:40:02.368 [30]
+01/09 21:40:02.380 [31]
+01/09 21:40:02.393 [32]
+01/09 21:40:02.405 [33]
+01/09 21:40:02.417 [34]
+01/09 21:40:02.429 [35]
+01/09 21:40:02.441 [36]
+01/09 21:40:02.453 [37]
+01/09 21:40:02.465 [38]
+01/09 21:40:02.477 [39]
+01/09 21:40:02.489 [40]
+01/09 21:40:02.501 [41]
+01/09 21:40:02.513 [42]
